@@ -1,7 +1,7 @@
 
 ## Alexa Castro's Portfolio
 
-I'm a computer science major at Cal State Fullerton and I plan on graduating in 2029
+I'm a computer science major at Cal State Fullerton and I plan on graduating in 2029. Here is the link to my Github profile: https://github.com/Air-Conditioner1
 
 ## My Favorite CPSC 120L Labs
 
